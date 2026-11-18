@@ -1,6 +1,0 @@
----
-name: creating
-host: localhost
-task: 
-name: ec2 creation
-service: started
